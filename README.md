@@ -2,7 +2,7 @@
 
 Your streaming companion 💛
 
-A modern desktop application designed to help streamers simplify OBS management, and remote control their OBS streaming workflow from a unified dashboard.
+A modern desktop application designed to help streamers simplify OBS management, and remote control your OBS streaming workflow from a unified dashboard.
 
 ## Quick Start
 
