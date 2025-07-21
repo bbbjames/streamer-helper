@@ -16,11 +16,7 @@ A modern desktop application designed to help streamers simplify OBS management,
 
 Steamer Helper Homepage + Downloads > [Streamer Helper](https://bobjames.dev/apps/streamer-helper)
 
-Windows Installer   : [Streamer Helper Setup 0.1.91.exe](https://github.com/bbbjames/streamer-helper/releases/download/streamer-helper-v0.1.91-beta-release/Streamer.Helper.Setup.0.1.91.exe)
-
-MD5 Hash    : C370CA18EE50471362D0579A0028A2E5
-
-SHA256      : 755039BC9F9B0A178AFD56055F4096C9E8516267D6F4DA9F84D17DF319352B3B
+Installers coming soon!
 
 ![Streamer Helper](https://img.shields.io/badge/version-0.1.91-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
