@@ -18,7 +18,7 @@ Steamer Helper Homepage + Downloads > [Streamer Helper](https://bobjames.dev/app
 
 Windows Installer   : [Streamer Helper Setup 0.1.91.exe](https://updates.bobjames.dev/streamer-helper/win/Streamer%20Helper%20Setup%200.1.91.exe)
 
-MD5 Hash    : 22A38905D6CAFBF0E26FBB1C8553111F
+MD5 Hash    : 22A38905D6CAFBF0E26FBB1C8553111F  
 SHA256      : 4DC743215DCEDFEDC63A235CF8FF9D66EEE36B21E4FC8E4AE250511D36998715
 
 ![Streamer Helper](https://img.shields.io/badge/version-0.1.91-blue.svg)
