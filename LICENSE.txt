@@ -1,0 +1,69 @@
+Bob James Software License and End User License Agreement  
+Version 1.0 - July 2025  
+Copyright (c) 2025 Business and Research Ltd. All rights reserved.
+
+---
+
+Note (July 2025):
+This is the first publicly released version of the Bob James Software Licence ("BJSL") EULA, making our Software available free of charge for use and redistribution under the terms below.
+
+Business and Research Ltd is considering releasing future versions of this software as open source, with support for community contributions and a Contributor License Agreement (CLA).
+
+Any future changes to the license will apply only to future versions and will not affect this version or your rights under this license.
+
+---
+
+LICENCE TERMS
+
+This license applies only to the version of the Software to which it is attached.
+
+Future versions of the Software may be released under different terms.
+
+1. LICENSE GRANT
+
+Business and Research Ltd ("Licensor") hereby grants you ("Licensee") a non-exclusive, worldwide, royalty-free license to:
+
+- use the Software for its intended purpose on your own systems; and
+- redistribute the Software only in its original, unmodified installer package (binary object form), subject to the conditions below.
+
+You may redistribute the Software only if all of the following conditions are met:
+
+- the installer package remains complete and unmodified;
+
+- this License Agreement is presented to the end user in its entirety;
+
+- the end user is required to affirmatively accept the terms (e.g., via an "I accept" button) before use;
+
+- and the distribution includes this LICENCE.txt, its copyright notice, the list of license conditions, and the full disclaimer in any accompanying documentation or materials.
+
+Redistribution in any other form, including extracted binaries or repackaged installers, is strictly prohibited.
+
+No express or implied licenses to any party's patent rights are granted under this License Agreement.
+
+No right to modify, reverse engineer, decompile, or create derivative works of the Software is granted.
+
+2. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL LICENSOR OR CONTRIBUTORS BE LIABLE FOR ANY DAMAGES (INCLUDING, WITHOUT LIMITATION, LOST PROFITS, BUSINESS INTERRUPTION, OR LOSS OF DATA) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE), ARISING IN ANY WAY OUT OF THE USE OF THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+3. INCORPORATED POLICIES
+
+By accepting this Agreement, you also agree to the following Business and Research Ltd policies, which are expressly incorporated herein:
+
+- [Terms of Use](https://www.businessandresearch.com/terms-of-use)
+- [Privacy Policy](https://www.businessandresearch.com/privacy-policy)
+- [Acceptable Use Policy](https://www.businessandresearch.com/acceptable-use-policy)
+
+For the avoidance of doubt, this Agreement, and any disputes arising under it, are subject to the governing law and jurisdiction provisions set out in the Terms of Use.
+
+4. TERMINATION
+
+Licensor may terminate this Agreement immediately if you breach any of its terms. Upon termination, you must cease all use of the Software and destroy all copies in your possession.
+
+5. EXPORT CONTROL
+
+You are responsible for complying with all applicable export control laws and regulations when using or redistributing the Software. The Software may not be exported or re-exported into any country subject to UK, EU, or US embargoes or sanctions.
+
+6. TRADEMARKS
+
+This License does not grant you any rights to use Licensor's names, trademarks, service marks, or trade names, including but not limited to "Bob James," "Business and Research Ltd," or any associated logos or branding, without prior written consent.
