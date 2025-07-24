@@ -14,7 +14,7 @@ A modern desktop application designed to help streamers simplify OBS management,
 
 ## Downloads
 
-Steamer Helper Homepage + Downloads > [Streamer Helper](https://bobjames.dev/apps/streamer-helper)
+Steamer Helper Homepage > [Streamer Helper](https://bobjames.dev/apps/streamer-helper)
 
 Windows Installer   : [Streamer Helper Setup 0.1.91.exe](https://updates.bobjames.dev/streamer-helper/win/Streamer%20Helper%20Setup%200.1.91.exe)
 
