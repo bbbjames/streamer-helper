@@ -14,10 +14,14 @@ A modern desktop application designed to help streamers simplify OBS management,
 
 ## Downloads
 
-[Streamer Helper](https://bobjames.dev/apps/streamer-helper)
+Steamer Helper Homepage + Downloads > [Streamer Helper](https://bobjames.dev/apps/streamer-helper)
+
+Windows Installer   : [Streamer Helper Setup 0.1.91.exe](https://updates.bobjames.dev/streamer-helper/win/Streamer Helper Setup 0.1.91.exe)
+
+MD5 Hash    : 22A38905D6CAFBF0E26FBB1C8553111F
+SHA256      : 4DC743215DCEDFEDC63A235CF8FF9D66EEE36B21E4FC8E4AE250511D36998715
 
 ![Streamer Helper](https://img.shields.io/badge/version-0.1.91-blue.svg)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
 
 ## Features
 
@@ -93,11 +97,17 @@ The application is built with:
 - **Renderer Process**: Next.js with TypeScript and Tailwind CSS
 - **Build Tools**: Webpack and Electron Builder
 
-
-
 ---
 
-**Copyright © 2025 Bob James**  
+## License
+
+This software is released under the Bob James Software License (BJSL) EULA Version 1.0.
+
+See [LICENSE.txt](./LICENSE.txt) or https://bobjames.dev/articles/licenses/bjsl-v1 for the full terms.
+
+**Bob James Software Licence EULA v1.0 Copyright © 2025 Business and Research Ltd**  
+
 For apps and updates, visit [bobjames.dev](https://bobjames.dev/apps)
+
 For Streamer Helper issues, support and feature requests please use our [GitHub
 Issues](https://github.com/bbbjames/streamer-helper/issues) page.
