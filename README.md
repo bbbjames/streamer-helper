@@ -19,6 +19,9 @@ Steamer Helper Homepage > [Streamer Helper](https://bobjames.dev/apps/streamer-h
 Windows Installer   : [Streamer Helper Setup 0.1.91.exe](https://github.com/bbbjames/streamer-helper/releases/download/v0.1.91-beta-release/Streamer.Helper.Setup.v0.1.91.exe)  
 SHA256      : 7373A24FADAD8AB3C101A20651A95846051FB5CC38BC064D694C5BE64C50E645
 
+MacOS   : (coming soon)  
+Linux   : (coming soon)
+
 ![Streamer Helper](https://img.shields.io/badge/version-0.1.91-blue.svg)
 
 ## Features
