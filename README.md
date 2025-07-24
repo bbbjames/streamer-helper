@@ -1,16 +1,23 @@
-# Streamer Helper
+# Streamer Helper v0.1.91 (Beta)
 
-Your streaming companion 💛
+## 🎉 Initial Release
 
-A modern desktop application designed to help streamers simplify OBS management, and remote control your OBS streaming workflow from a unified dashboard.
+We're excited to announce the first beta release of [Streamer Helper](https://bobjames.dev/apps/streamer-helper) - your OBS remote control stream companion for content creators and Twitch streamers! 
 
-## Quick Start
+## ✨ Key Features
 
-1. **Download** the application from the link below
-2. **Install** run Streamer Helper installer
-3. **Connect to OBS**: Ensure OBS Studio is running with WebSocket enabled
-4. **Authenticate with Twitch**: Use the built-in OAuth flow to connect your Twitch account
-5. **Start Streaming**: Use the dashboard to control your stream
+- **OBS Studio Integration** - Seamlessly connect and control your streaming setup
+- **Remote OBS Control** - Manage your streaming setup from any networked device
+- **Twitch Chat Management** - Monitor and interact with your audience in real-time
+- **Visual Scene Manager** - Scene switcher with live previews and status indicators
+- **Stream Health Monitoring** - Real-time performance metrics and broadcast analytics
+- **Platform Support** - Currently compatible with Twitch (YouTube and other platforms coming soon)
+
+## 🖥️ System Requirements
+
+- **Windows 10/11** (64-bit)
+- **OBS Studio** (latest version recommended)
+- **Network connection** for remote control functionality
 
 ## Downloads
 
@@ -21,81 +28,20 @@ SHA256      : 4DC743215DCEDFEDC63A235CF8FF9D66EEE36B21E4FC8E4AE250511D36998715
 
 ![Streamer Helper](https://img.shields.io/badge/version-0.1.91-blue.svg)
 
-## Features
+## 📥 Installation
 
-### 🎥 OBS Studio Integration
-- **WebSocket Connection**: Seamless integration with OBS Studio via WebSocket
-- **Stream Control**: Start/stop streaming directly from the app
-- **Scene Management**: Visual scene previews and switching
-- **Performance Monitoring**: Real-time OBS performance metrics
+1. Download Streamer Helper installer
+2. Run the installer
+3. Follow the setup wizard
+4. Launch Streamer Helper and configure your OBS connection
 
-### 📊 Twitch Integration
-- **OAuth Authentication**: Secure Twitch login
-- **Live Statistics**: Real-time viewer count and follower tracking
-- **Stream Status**: Monitor your Twitch stream status
-- **Commercial Controls**: Run commercials with customizable durations
+## ⚠️ Beta Notice
 
-### 🎨 Modern Interface
-- **Glass Morphism Design**: Beautiful, modern UI with backdrop blur effects
-- **Theme System**: Dynamic theming with visual effects
-- **Responsive Layout**: Optimized for different screen sizes
-- **Real-time Updates**: Live data updates without page refresh
+This is a beta release intended for testing and feedback. Please report any issues or feature requests on our [GitHub Issues](https://github.com/bbbjames/streamer-helper/issues) page.
 
-### 🔧 Additional Tools
-- **Chat Integration**: Built-in chat display and management
-- **Auto-updater**: Automatic application updates
+**Coming Soon:** macOS and Linux versions are in development!
 
-### ⚡ Additional Dev/Features Requests
-- **Twitch Features**: Edit Category and Stream Title
-- **Notes App**: in app Notes App
-- **Social Media**: Quick social media capabilities
-- **Restream Capabilities**: Video feed restreamer
-- **Authenticode + Code Signing**: Microsoft Authenticode + Trusted Signing
-
-## Technology Stack
-
-- **Desktop Framework**: Electron 37.2.0
-- **Frontend**: Next.js with React
-- **Styling**: Tailwind CSS with custom glass morphism effects
-- **Real-time Communication**: WebSocket (OBS) and REST APIs (Twitch)
-- **Build System**: Electron Builder for cross-platform distribution
-
-## System Requirements
-
-- **Windows**: Windows 10 or later
-- **macOS**: macOS 10.14 or later
-- **Linux**: Ubuntu 18.04 or equivalent
-- **OBS Studio**: Version 28.0 or later
-- **Memory**: 4GB RAM recommended
-- **Storage**: 200MB available space
-
-## Key Components
-
-### Stream Dashboard
-- Live stream status and controls
-- Real-time viewer metrics
-- OBS performance monitoring
-- Quick action buttons
-
-### Scene Manager
-- Visual scene previews with thumbnails
-- One-click scene switching
-- Scene organization tools
-
-### Settings Panel
-- OBS WebSocket configuration
-- Twitch API settings
-- UI customization options
-- Update management
-
-## Development
-
-The application is built with:
-- **Main Process**: TypeScript with Electron
-- **Renderer Process**: Next.js with TypeScript and Tailwind CSS
-- **Build Tools**: Webpack and Electron Builder
-
----
+💛 Thank you for helping us test Streamer Helper!
 
 ## License
 
@@ -107,5 +53,4 @@ See [LICENSE.txt](./LICENSE.txt) or https://bobjames.dev/articles/licenses/bjsl-
 
 For apps and updates, visit [bobjames.dev](https://bobjames.dev/apps)
 
-For Streamer Helper issues, support and feature requests please use our [GitHub
-Issues](https://github.com/bbbjames/streamer-helper/issues) page.
+For Streamer Helper issues, support and feature requests please use our [GitHub Issues](https://github.com/bbbjames/streamer-helper/issues) page.
